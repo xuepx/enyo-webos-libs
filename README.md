@@ -39,7 +39,7 @@ BackGesture for ENYO2
 
 ##windows
 
-some function for webos Window manager.
+some functions for webos Window manager.
 
 **Example:**
 
@@ -48,6 +48,6 @@ some function for webos Window manager.
 
 ##ApplicationEvent
 
-**Exaple**
+**Example**
     
     {kind: "enyo.Signals", onwindowParamsChange: "WindowParamsChange"}
